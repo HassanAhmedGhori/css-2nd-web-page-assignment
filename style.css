@@ -207,10 +207,12 @@ li:hover{
         padding: 5px;
     }
     ul{
-        gap: 2px;
+        gap: 5px;
+        justify-content: center;
     }
     li{
     padding: 20px 15px;
+    width: 12%;
     }
     .box{
         width: 100%;
